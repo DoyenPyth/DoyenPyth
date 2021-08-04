@@ -23,14 +23,14 @@
 
 <p align=center>
   <a href="https://github.com/DoyenPyth">
-    <img src="https://badges.pufler.dev/visits/Randrita/Randrita?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/DoyenPyth/DoyenPyth?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/DoyenPyth?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Randrita?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/DoyenPyth?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/DoyenPyth"><img src="https://img.shields.io/github/followers/Randrita?style=social"></a>
+<a href="https://github.com/DoyenPyth"><img src="https://img.shields.io/github/followers/DoyenPyth?style=social"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Web-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
