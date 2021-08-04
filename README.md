@@ -15,7 +15,7 @@
  <img  width="800" height="500" src="https://github.com/DoyenPyth/DoyenPyth/pictures/intro.png">
 </p> -->
 <h2 align="center">Hello there! I'm Doyen Pyth. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology Computer science in specialization Artificial Intelligence from SAGE University Bhopal :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning. I've started exploring the field of computer vision as well ✨ and hope to contribute to that field as well. 
+<p align="center">I'm currently a student pursuing my Bachelor of Technology in Computer science with specialization in Artificial Intelligence from SAGE University Bhopal :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning. I've started exploring the field of computer vision as well ✨ and hope to contribute to that field as well. 
 </p>
 
 <p align="center"><a href="https://twitter.com/DoyenPyth"><img src="https://github.com/Randrita/randritas_intro/blob/main/twitter.svg" height=25></a> <a href="https://www.linkedin.com/in/DoyenPyth"><img src="https://github.com/Randrita/randritas_intro/blob/main/linkedin.svg" height=25></a> <a href="https://www.instagram.com/DoyenPyth/"><img src="https://github.com/Randrita/randritas_intro/blob/main/instagram.svg" height=25></a> 
