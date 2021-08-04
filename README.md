@@ -29,6 +29,6 @@
 
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=DoyenPyth&show_icons=true&theme=radical">
- ![Github Stat](https://github-readme-stats.vercel.app/api?username=ayushmankumar7&show_icons=true&theme=radical)
- ![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=DoyenPyth)
 </p>
+![Github Stat](https://github-readme-stats.vercel.app/api?username=ayushmankumar7&show_icons=true&theme=radical)
+![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=DoyenPyth)
