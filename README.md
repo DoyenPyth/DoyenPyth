@@ -7,7 +7,7 @@
 
 <p align="center">
  <a href="https://twitter.com/DoyenPyth"><img src="https://github.com/DoyenPyth/DoyenPyth/blob/main/pictures/logos/twitter.svg" height=25></a> 
- <a href="https://www.linkedin.com/in/DoyenPyth"><img src="https://github.com/DoyenPyth/DoyenPyth/blob/main/pictures/logos/linkedin.svg" height=25></a>
+ <a href="https://www.linkedin.com/company/doyenpyth"><img src="https://github.com/DoyenPyth/DoyenPyth/blob/main/pictures/logos/linkedin.svg" height=25></a>
  <a href="https://www.instagram.com/DoyenPyth/"><img src="https://github.com/DoyenPyth/DoyenPyth/blob/main/pictures/logos/instagram.svg" height=25></a> 
 </p>
 
