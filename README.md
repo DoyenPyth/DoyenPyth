@@ -1,16 +1,3 @@
-<!--### Hola, I'm DoyenPyth! 👋
-
-- 🔭 I’m currently pursing B.Tech CSE (Hons) ...
-- 👯 I’m looking to collaborate on LinkedIn
-- 🤔 I’m looking for help with flutter
-- 💬 Ask me about anything
-- 😄 Pronouns: he/him
-<!--- 📫 How to reach me: ...-->
-
-<!--- ⚡ Fun fact: ...-->
-
-<!--<img src="https://github-readme-stats.vercel.app/api?username=DoyenPyth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">-->
-
 <!-- <p align="center">
  <img  width="800" height="500" src="https://github.com/DoyenPyth/DoyenPyth/pictures/intro.png">
 </p> -->
