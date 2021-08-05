@@ -48,7 +48,7 @@
  <img align=center src="https://github-readme-stats.vercel.app/api?username=DoyenPyth&show_icons=true&theme=radical"><br>
  <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=DoyenPyth">
 </p>
-## 📚 My Skills
+<h3 align="center"> 📚 My Skills </h3>
 <hr>
 <p align="center">
  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyenPyth&layout=compact&show_icons=true&theme=dark"> 
